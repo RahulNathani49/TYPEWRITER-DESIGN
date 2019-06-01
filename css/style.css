@@ -23,6 +23,9 @@ p{
     line-height: 1.7;
     padding: 30px 80px;
 }
+.but{
+    width: 197px;
+}
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
 .main h1{
     font-size: 40px;
